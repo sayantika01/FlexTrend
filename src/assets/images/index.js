@@ -37,7 +37,23 @@ import bodycare26 from "./products/bestSeller/bodycare26.webp";
 import bodycare27 from "./products/bestSeller/bodycare27.webp";
 import bodycare28 from "./products/bestSeller/bodycare28.webp";
 import bodycare29 from "./products/bestSeller/bodycare29.webp";
-
+import cosmetic4 from "./products/bestSeller/cosmetic4.webp";
+import cosmetic6 from "./products/bestSeller/cosmetic6.webp";
+import cosmetic9 from "./products/bestSeller/cosmetic9.webp";
+import cosmetic12 from "./products/bestSeller/cosmetic12.webp";
+import cosmetic13 from "./products/bestSeller/cosmetic13.webp";
+import cosmetic14 from "./products/bestSeller/cosmetic14.webp";
+import cosmetic20 from "./products/bestSeller/cosmetic20.webp";
+import cosmetic21 from "./products/bestSeller/cosmetic21.webp";
+import cosmetic22 from "./products/bestSeller/cosmetic22.webp";
+import cosmetic26 from "./products/bestSeller/cosmetic26.webp";
+import cosmetic27 from "./products/bestSeller/cosmetic27.webp";
+import cosmetic28 from "./products/bestSeller/cosmetic28.webp";
+import cosmetic30 from "./products/bestSeller/cosmetic30.webp";
+import cosmetic32 from "./products/bestSeller/cosmetic32.webp";
+import cosmetic33 from "./products/bestSeller/cosmetic33.webp";
+import cosmetic38 from "./products/bestSeller/cosmetic38.webp";
+import cosmetic39 from "./products/bestSeller/cosmetic39.webp";
 
 // Special Offers
 import spfOne from "./products/specialOffer/spfOne.webp";
@@ -91,6 +107,24 @@ export {
   bodycare27,
   bodycare28,
   bodycare29,
+  cosmetic4,
+  cosmetic6,
+  cosmetic9,
+  cosmetic12,
+  cosmetic13,
+  cosmetic14,
+  cosmetic20,
+  cosmetic21,
+  cosmetic22,
+  cosmetic26,
+  cosmetic27,
+  cosmetic28,
+  cosmetic30,
+  cosmetic32,
+  cosmetic33,
+  cosmetic38,
+  cosmetic39,
+  
 
   // Sprcial Offers
   spfOne,
