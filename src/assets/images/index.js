@@ -72,6 +72,25 @@ import home22 from "./products/newArrival/home 22.webp";
 import home25 from "./products/newArrival/home 25.webp";
 import home26 from "./products/newArrival/home 26.webp";
 import home9 from "./products/newArrival/home 9.webp";
+import jewel1 from "./products/newArrival/jewel1.webp";
+import jewel10 from "./products/newArrival/fjewel10.webp";
+import jewel11 from "./products/newArrival/jewel11.webp";
+import jewel12 from "./products/newArrival/jewel12.webp";
+import jewel13 from "./products/newArrival/jewel13.webp";
+import jewel14 from "./products/newArrival/jewel14.webp";
+import jewel18 from "./products/newArrival/jewel18.webp";
+import jewe2 from "./products/newArrival/jewel2.webp";
+import jewel20 from "./products/newArrival/jewel20.webp";
+import jewel21 from "./products/newArrival/jewel21.webp";
+import jewel29 from "./products/newArrival/jewel29.webp";
+import jewel3 from "./products/newArrival/jewel3.webp";
+import jewel30 from "./products/newArrival/jewel30.webp";
+import jewel4 from "./products/newArrival/jewel4.webp";
+import jewel5 from "./products/newArrival/jewel5.webp";
+import jewel6 from "./products/newArrival/jewel6.webp";
+import jewel7 from "./products/newArrival/jewel7.webp";
+import jewel8 from "./products/newArrival/jewel8.webp";
+import jewel9 from "./products/newArrival/jewel9.webp";
 
 // Best Sellers
 import bestSellerOne from "./products/bestSeller/bestSellerOne.webp";
@@ -258,6 +277,25 @@ export {
   home25,
   home26,
   home9,
+  jewel1,
+  jewel10,
+  jewel11,
+  jewel12,
+  jewel13,
+  jewel14,
+  jewel18,
+  jewel2,
+  jewel20,
+  jewel21,
+  jewel29,
+  jewel3,
+  jewel30,
+  jewel4,
+  jewel5,
+  jewel6,
+  jewel7,
+  jewel8,
+  jewel9,
   
 
   // Best Sellers
