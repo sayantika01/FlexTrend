@@ -11,6 +11,7 @@ import {
   newArrTwo,
   newArrThree,
   newArrFour,
+  Elec17,
 } from "../assets/images/index";
 
 // =================== NavBarList Start here ====================
@@ -88,9 +89,9 @@ export const SplOfferData = [
 export const paginationItems = [
   {
     _id: 1001,
-    img: spfOne,
-    productName: "Cap for Boys",
-    price: "35.00",
+    img: Elec17,
+    productName: "Air Conditioner(AC)",
+    price: "11535.00",
     color: "Blank and White",
     badge: true,
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
