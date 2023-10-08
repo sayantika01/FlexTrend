@@ -101,6 +101,13 @@ import skincare23 from "./products/bestSeller/skincare23.webp";
 import skincare6 from "./products/bestSeller/Skincare 6.jpeg";
 import Elec19 from "./products/bestSeller/Elec19.webp";
 import Elec2 from "./products/bestSeller/Elec2.webp";
+import Elec23 from "./products/bestSeller/Elec23.webp";
+import Elec5 from "./products/bestSeller/Elec5.webp";
+import Elec6 from "./products/bestSeller/Elec6.webp";
+import fashion1 from "./products/bestSeller/fashion1.webp";
+import fashion15 from "./products/bestSeller/fashion15.webp";
+import fashion16 from "./products/bestSeller/fashion16.webp";
+import fashion5 from "./products/bestSeller/fashion5.webp";
 
 
 // Special Offers
@@ -236,6 +243,14 @@ export {
   skincare6,
   Elec19,
   Elec2,
+  Elec23,
+  Elec5,
+  Elec6,
+  fashion1,
+  fashion15,
+  fashion16,
+  fashion5,
+
   
 
   // Sprcial Offers
