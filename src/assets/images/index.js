@@ -113,6 +113,14 @@ import shoe8 from "./products/specialOffer/shoe8.webp";
 import cosmetic3 from "./products/specialOffer/cosmetic3.webp";
 import cosmetic18 from "./products/specialOffer/cosmetic18.webp";
 import cosmetic36 from "./products/specialOffer/cosmetic36.webp";
+import bodycare1 from "./products/specialOffer/bodycare1.webp";
+import bodycare15 from "./products/specialOffer/bodycare15.webp";
+import bodycare21 from "./products/specialOffer/bodycare21.webp";
+import bodycare23 from "./products/specialOffer/bodycare23.webp";
+import bodycare24 from "./products/specialOffer/bodycare24.webp";
+import skincare2 from "./products/specialOffer/Skincare 2.webp";
+import skincare3 from "./products/specialOffer/Skincare 3.webp";
+
 
 
 
@@ -238,6 +246,13 @@ export {
   cosmetic3,
   cosmetic18,
   cosmetic36,
+  skincare2,
+  skincare3,
+  bodycare1,
+  bodycare15,
+  bodycare21,
+  bodycare23,
+  bodycare24,
 
   // Year Product
   productOfTheYear,
