@@ -47,7 +47,7 @@ const Contact = () => {
       setErrClientName("Enter your Name");
     }
     if (!email) {
-      setErrEmail("Enter your Email");
+      setErrEmail("Enter your Email Id");
     } else {
       if (!EmailValidation(email)) {
         setErrEmail("Enter a Valid Email");
