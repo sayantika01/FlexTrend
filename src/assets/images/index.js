@@ -54,6 +54,13 @@ import cosmetic32 from "./products/bestSeller/cosmetic32.webp";
 import cosmetic33 from "./products/bestSeller/cosmetic33.webp";
 import cosmetic38 from "./products/bestSeller/cosmetic38.webp";
 import cosmetic39 from "./products/bestSeller/cosmetic39.webp";
+import shoe12 from "./products/bestSeller/shoe12.webp";
+import shoe14 from "./products/bestSeller/shoe14.webp";
+import shoe15 from "./products/bestSeller/shoe15.webp";
+import shoe18 from "./products/bestSeller/shoe18.webp";
+import shoe26 from "./products/bestSeller/shoe26.webp";
+import skin11 from "./products/bestSeller/skin 11.webp";
+
 
 // Special Offers
 import spfOne from "./products/specialOffer/spfOne.webp";
@@ -124,6 +131,12 @@ export {
   cosmetic33,
   cosmetic38,
   cosmetic39,
+  shoe12,
+  shoe14,
+  shoe15,
+  shoe18,
+  shoe26,
+  skin11,
   
 
   // Sprcial Offers
