@@ -14,7 +14,7 @@ const Journal = () => {
       <div className="pb-10">
         <h1 className="max-w-[600px] text-base text-lightText mb-2">
           <span className="text-primeColor font-semibold text-lg">FlexMart</span>{" "}
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo
+          Shopping Site Quo
           reiciendis delectus vitae, aliquid sit iure dolorum commodi eum
           numquam voluptate!
         </h1>
