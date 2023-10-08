@@ -101,7 +101,14 @@ import skincare23 from "./products/bestSeller/skincare23.webp";
 import skincare6 from "./products/bestSeller/Skincare 6.jpeg";
 import Elec19 from "./products/bestSeller/Elec19.webp";
 import Elec2 from "./products/bestSeller/Elec2.webp";
-
+import jewel15 from "./products/bestSeller/jewel15.webp";
+import jewel16 from "./products/bestSeller/jewel16.webp";
+import jewel17 from "./products/bestSeller/jewel17.webp";
+import jewel23 from "./products/bestSeller/jewel23.webp";
+import jewel24 from "./products/bestSeller/jewel24.webp";
+import jewel25 from "./products/bestSeller/jewel25.webp";
+import jewel27 from "./products/bestSeller/jewel27.webp";
+import jewel28 from "./products/bestSeller/jewel28.webp";
 
 // Special Offers
 import spfOne from "./products/specialOffer/spfOne.webp";
@@ -236,6 +243,14 @@ export {
   skincare6,
   Elec19,
   Elec2,
+  jewel15,
+  jewel16,
+  jewel17,
+  jewel23,
+  jewel24,
+  jewel25,
+  jewel27,
+  jewel28,
   
 
   // Sprcial Offers
