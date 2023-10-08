@@ -78,5 +78,5 @@ This website is a work in progress. So any suggestions or updates will be well a
 - <b><a align="center" href="https://github.com/ishitasaha2608">Ishita Saha.</a></b>
 - <b><a align="center" href="https://github.com/evatm">Tiyasa Majumdar.</a></b>
 
-< Deployment Link: https://flex-mart-phi.vercel.app/ >
+ Deployment Link: https://flex-mart-phi.vercel.app/ 
 
