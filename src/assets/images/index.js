@@ -106,6 +106,16 @@ import spfOne from "./products/specialOffer/spfOne.webp";
 import spfTwo from "./products/specialOffer/spfTwo.webp";
 import spfThree from "./products/specialOffer/spfThree.webp";
 import spfFour from "./products/specialOffer/spfFour.webp";
+import shoe4 from "./products/specialOffer/shoe4.webp";
+import shoe5 from "./products/specialOffer/shoe5p";
+import shoe6 from "./products/specialOffer/shoe6.webp";
+import shoe8 from "./products/specialOffer/shoe8.webp";
+import cosmetic3 from "./products/specialOffer/cosmetic3.webp";
+import cosmetic18 from "./products/specialOffer/cosmetic18.webp";
+import cosmetic36 from "./products/specialOffer/cosmetic36.webp";
+
+
+
 
 // Year Product
 import productOfTheYear from "./products/productOfTheYear.webp";
@@ -221,6 +231,13 @@ export {
   spfTwo,
   spfThree,
   spfFour,
+  shoe4,
+  shoe5,
+  shoe6,
+  shoe8,
+  cosmetic3,
+  cosmetic18,
+  cosmetic36,
 
   // Year Product
   productOfTheYear,
