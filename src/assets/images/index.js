@@ -116,6 +116,14 @@ import jewel24 from "./products/bestSeller/jewel24.webp";
 import jewel25 from "./products/bestSeller/jewel25.webp";
 import jewel27 from "./products/bestSeller/jewel27.webp";
 import jewel28 from "./products/bestSeller/jewel28.webp";
+import home3 from "./products/bestSeller/home 3.webp";
+import home4 from "./products/bestSeller/home 4.webp";
+import home5 from "./products/bestSeller/home 5.webp";
+import home6 from "./products/bestSeller/home 6.webp";
+import home7 from "./products/bestSeller/home 7.webp";
+import home8 from "./products/bestSeller/home 8.webp";
+import home11 from "./products/bestSeller/home 11.webp";
+import home12 from "./products/bestSeller/home 12.webp";
 
 
 // Special Offers
@@ -266,6 +274,14 @@ export {
   jewel25,
   jewel27,
   jewel28,
+  home3,
+  home4,
+  home5,
+  home6,
+  home7,
+  home8,
+  home11,
+  home12,
 
   
 
