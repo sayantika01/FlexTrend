@@ -191,7 +191,16 @@ import bodycare23 from "./products/specialOffer/bodycare23.webp";
 import bodycare24 from "./products/specialOffer/bodycare24.webp";
 import skincare2 from "./products/specialOffer/Skincare 2.webp";
 import skincare3 from "./products/specialOffer/Skincare 3.webp";
-
+import jewel19 from "./products/specialOffer/jewel19.webp";
+import fashion13 from "./products/specialOffer/fashion13.webp";
+import Fasion17 from "./products/specialOffer/Fasion17.webp";
+import home2 from "./products/specialOffer/home 2.webp";
+import home16 from "./products/specialOffer/home 16.webp";
+import jewel31 from "./products/specialOffer/jewel31.webp";
+import Elec18 from "./products/specialOffer/Elec18.webp";
+import Elec16 from "./products/specialOffer/Elec16.webp";
+import Elec7 from "./products/specialOffer/Elec7.webp";
+import home18 from "./products/specialOffer/home 18.webp";
 
 
 
@@ -398,6 +407,16 @@ export {
   bodycare21,
   bodycare23,
   bodycare24,
+  jewel19,
+  fashion13,
+  Fasion17,
+  home2,
+  home16,
+  jewel31,
+  Elec18,
+  Elec16,
+  Elec7,
+  home18,
 
   // Year Product
   productOfTheYear,
