@@ -108,6 +108,14 @@ import fashion1 from "./products/bestSeller/fashion1.webp";
 import fashion15 from "./products/bestSeller/fashion15.webp";
 import fashion16 from "./products/bestSeller/fashion16.webp";
 import fashion5 from "./products/bestSeller/fashion5.webp";
+import jewel15 from "./products/bestSeller/jewel15.webp";
+import jewel16 from "./products/bestSeller/jewel16.webp";
+import jewel17 from "./products/bestSeller/jewel17.webp";
+import jewel23 from "./products/bestSeller/jewel23.webp";
+import jewel24 from "./products/bestSeller/jewel24.webp";
+import jewel25 from "./products/bestSeller/jewel25.webp";
+import jewel27 from "./products/bestSeller/jewel27.webp";
+import jewel28 from "./products/bestSeller/jewel28.webp";
 
 
 // Special Offers
@@ -250,6 +258,14 @@ export {
   fashion15,
   fashion16,
   fashion5,
+  jewel15,
+  jewel16,
+  jewel17,
+  jewel23,
+  jewel24,
+  jewel25,
+  jewel27,
+  jewel28,
 
   
 
