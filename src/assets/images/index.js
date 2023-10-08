@@ -18,6 +18,7 @@ import bestSellerOne from "./products/bestSeller/bestSellerOne.webp";
 import bestSellerTwo from "./products/bestSeller/bestSellerTwo.webp";
 import bestSellerThree from "./products/bestSeller/bestSellerThree.webp";
 import bestSellerFour from "./products/bestSeller/bestSellerFour.webp";
+import Elec17 from "./products/bestSeller/Elec17.webp";
 
 // Special Offers
 import spfOne from "./products/specialOffer/spfOne.webp";
@@ -52,6 +53,7 @@ export {
   bestSellerTwo,
   bestSellerThree,
   bestSellerFour,
+  Elec17,
 
   // Sprcial Offers
   spfOne,
