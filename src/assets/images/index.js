@@ -19,6 +19,7 @@ import bestSellerTwo from "./products/bestSeller/bestSellerTwo.webp";
 import bestSellerThree from "./products/bestSeller/bestSellerThree.webp";
 import bestSellerFour from "./products/bestSeller/bestSellerFour.webp";
 import Elec17 from "./products/bestSeller/Elec17.webp";
+import Skincare1 from "./products/bestSeller/Skincare1.webp"
 
 // Special Offers
 import spfOne from "./products/specialOffer/spfOne.webp";
