@@ -100,6 +100,7 @@ import skincare19 from "./products/bestSeller/skincare19.webp";
 import skincare23 from "./products/bestSeller/skincare23.webp";
 import skincare6 from "./products/bestSeller/Skincare 6.jpeg";
 import Elec19 from "./products/bestSeller/Elec19.webp";
+import Elec2 from "./products/bestSeller/Elec2.webp";
 
 
 // Special Offers
@@ -234,6 +235,7 @@ export {
   skincare23,
   skincare6,
   Elec19,
+  Elec2,
   
 
   // Sprcial Offers
