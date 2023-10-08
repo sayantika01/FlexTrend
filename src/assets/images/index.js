@@ -55,6 +55,23 @@ import fashion6 from "./products/newArrival/fashion6.webp";
 import fashion7 from "./products/newArrival/fashion7.webp";
 import fashion8 from "./products/newArrival/fashion8.webp";
 import fashion9 from "./products/newArrival/fashion9.webp";
+import Elec20 from "./products/newArrival/Elec20.webp";
+import Elec21 from "./products/newArrival/Elec21.webp";
+import Elec22 from "./products/newArrival/Elec22.webp";
+import Elec25 from "./products/newArrival/Elec25.webp";
+import Elec26 from "./products/newArrival/Elec 26.webp";
+import Elec1 from "./products/newArrival/Elec1.webp";
+import Elec3 from "./products/newArrival/Elec3.webp";
+import Elec4 from "./products/newArrival/Elec4.webp";
+import Elec11 from "./products/newArrival/Elec11.webp";
+import Elec12 from "./products/newArrival/Elec12.webp";
+import Elec13 from "./products/newArrival/Elec13.webp";
+import Elec14 from "./products/newArrival/Elec14.webp";
+import home10 from "./products/newArrival/home 10.webp";
+import home22 from "./products/newArrival/home 22.webp";
+import home25 from "./products/newArrival/home 25.webp";
+import home26 from "./products/newArrival/home 26.webp";
+import home9 from "./products/newArrival/home 9.webp";
 
 // Best Sellers
 import bestSellerOne from "./products/bestSeller/bestSellerOne.webp";
@@ -224,6 +241,23 @@ export {
   fashion7,
   fashion8,
   fashion9,
+  Elec20,
+  Elec21,
+  Elec22,
+  Elec25,
+  Elec26,
+  Elec1,
+  Elec3,
+  Elec4,
+  Elec11,
+  Elec12,
+  Elec13,
+  Elec14,
+  home10,
+  home22,
+  home25,
+  home26,
+  home9,
   
 
   // Best Sellers
