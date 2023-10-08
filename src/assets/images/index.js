@@ -31,7 +31,18 @@ import cosmetic24 from "./products/newArrival/cosmetic24.webp";
 import cosmetic31 from "./products/newArrival/cosmetic31.webp";
 import cosmetic34 from "./products/newArrival/cosmetic34.webp";
 import cosmetic40 from "./products/newArrival/cosmetic40.webp";
-
+import shoe1 from "./products/newArrival/shoe1.webp";
+import shoe2 from "./products/newArrival/shoe2.webp";
+import shoe3 from "./products/newArrival/shoe3.webp";
+import shoe4 from "./products/newArrival/shoe4.webp";
+import shoe5 from "./products/newArrival/shoe5.webp";
+import shoe6 from "./products/newArrival/shoe6.webp";
+import shoe7 from "./products/newArrival/shoe7.webp";
+import shoe8 from "./products/newArrival/shoe8.webp";
+import shoe16 from "./products/newArrival/shoe16.webp";
+import shoe20 from "./products/newArrival/shoe20.webp";
+import shoe21 from "./products/newArrival/shoe21.webp";
+import shoe23 from "./products/newArrival/shoe23.webp";
 
 
 
@@ -136,6 +147,18 @@ export {
   cosmetic31,
   cosmetic34,
   cosmetic40,
+  shoe1,
+  shoe2,
+  shoe3,
+  shoe4,
+  shoe5,
+  shoe6,
+  shoe7,
+  shoe8,
+  shoe16,
+  shoe20,
+  shoe21,
+  shoe23,
   
 
   // Best Sellers
