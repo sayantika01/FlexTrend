@@ -20,6 +20,19 @@ import skincare22 from "./products/newArrival/skincare22.webp";
 import skincare25 from "./products/newArrival/skincare25.webp";
 import skincare4 from "./products/newArrival/Skincare 4.webp";
 import bodycare30 from "./products/newArrival/bodycare30.webp";
+import cosmetic1 from "./products/newArrival/cosmetic1.webp";
+import cosmetic5 from "./products/newArrival/cosmetic5.webp";
+import cosmetic8 from "./products/newArrival/cosmetic8.webp";
+import cosmetic11 from "./products/newArrival/cosmetic11.webp";
+import cosmetic12 from "./products/newArrival/cosmetic12.webp";
+import cosmetic15 from "./products/newArrival/cosmetic15.webp";
+import cosmetic16 from "./products/newArrival/cosmetic16.webp";
+import cosmetic24 from "./products/newArrival/cosmetic24.webp";
+import cosmetic31 from "./products/newArrival/cosmetic31.webp";
+import cosmetic34 from "./products/newArrival/cosmetic34.webp";
+import cosmetic40 from "./products/newArrival/cosmetic40.webp";
+
+
 
 
 // Best Sellers
@@ -112,6 +125,18 @@ export {
   skincare22,
   skincare25,
   bodycare30,
+  cosmetic1,
+  cosmetic5,
+  cosmetic8,
+  cosmetic11,
+  cosmetic12,
+  cosmetic15,
+  cosmetic16,
+  cosmetic24,
+  cosmetic31,
+  cosmetic34,
+  cosmetic40,
+  
 
   // Best Sellers
   bestSellerOne,
