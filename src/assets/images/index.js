@@ -59,7 +59,13 @@ import shoe14 from "./products/bestSeller/shoe14.webp";
 import shoe15 from "./products/bestSeller/shoe15.webp";
 import shoe18 from "./products/bestSeller/shoe18.webp";
 import shoe26 from "./products/bestSeller/shoe26.webp";
+import skin5 from "./products/bestSeller/skin 5.webp";
 import skin11 from "./products/bestSeller/skin 11.webp";
+import skin17 from "./products/bestSeller/skin 17.webp";
+import skincare9 from "./products/bestSeller/skincare9.webp";
+import skincare19 from "./products/bestSeller/skincare19.webp";
+import skincare23 from "./products/bestSeller/skincare23.webp";
+import skincare6 from "./products/bestSeller/Skincare 6.jpeg";
 
 
 // Special Offers
@@ -136,7 +142,13 @@ export {
   shoe15,
   shoe18,
   shoe26,
+  skin5,
   skin11,
+  skin17,
+  skincare9,
+  skincare19,
+  skincare23,
+  skincare6,
   
 
   // Sprcial Offers
